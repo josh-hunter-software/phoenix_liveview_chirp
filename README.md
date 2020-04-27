@@ -1,5 +1,8 @@
 # Chirp
 
+My run through Chris McChord's liveview demo of Phoenix 1.5 Twitter clone build in 15 minutes found here:
+https://www.phoenixframework.org/blog/build-a-real-time-twitter-clone-in-15-minutes-with-live-view-and-phoenix-1-5
+
 To start your Phoenix server:
 
   * Setup the project with `mix setup`
